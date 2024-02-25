@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I enjoy working across the entire stack and like strengthing my knowledge in as many areas of web development as I can. 
+
+I have developed application ranging from discord bots, interactive livestreams, sass products and more.
+
+I love a good well crafted interactive tutorial. 
+
+Most recently I have really enjoyed developing apps with the so called t3 stack.
+
+When I'm not working on a project or trying to upskill...  I like to disconnect and take spontaneous walks, meditate.
+
 <!--
 **KModestas2/KModestas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
