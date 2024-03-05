@@ -1,4 +1,4 @@
-### 👋 Hi, I'm Modestas, a Fullstack Web Developer currently based in London.
+### 👋 Hi, I'm Modestas, a fullstack web developer currently based in London.
 
 🛠️ I have built and contributed a wide range of applications ranging from discord bots, interactive livestreams, mobile apps, crypto projects and SaaS apps. Wether it be crafting responsive UI's or implementing robust backends and API's, I find joy in all aspects of the development process.
 
