@@ -1,8 +1,8 @@
 ### 👋 Hi, I'm Modestas, a Fullstack Web Developer currently based in London.
 
-🧰 I have built and contributed a wide range of applications ranging from discord bots, interactive livestreams, mobile apps, crypto projects and SaaS apps. Wether it be crafting responsive UI's or implementing robust backends and API's, I find joy in all aspects of the development process.
+🛠️ I have built and contributed a wide range of applications ranging from discord bots, interactive livestreams, mobile apps, crypto projects and SaaS apps. Wether it be crafting responsive UI's or implementing robust backends and API's, I find joy in all aspects of the development process.
 
-🔭 At the moment, I really enjoy using the ["T3 stack"](https://create.t3.gg/) pioneerd by Theo Browne. The DX is on another level!
+🧰 At the moment, I really enjoy using the ["T3 stack"](https://create.t3.gg/) pioneerd by Theo Browne. The DX is on another level!
 
 🍃 When I'm not hacking away at my computer, I like to disconnect and go on spontaneous walks, meditate and do some HIIT training. 
 
