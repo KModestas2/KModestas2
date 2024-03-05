@@ -2,7 +2,7 @@
 
 🔨 I have built and contributed a wide range of applications ranging from discord bots, interactive livestreams, mobile apps and a variety of production-grade web apps. Wether it be creating beautiful and responsive UI's or robust backends and API's, I find joy in all aspects of the development process.
 
-🔭 At the moment, I really enjoy using the ["T3 stack"](https://create.t3.gg/) pioneerd by Theo Browne. With The DX is on another level!
+🔭 At the moment, I really enjoy using the ["T3 stack"](https://create.t3.gg/) pioneerd by Theo Browne. The DX is on another level!
 
 🍃 When I'm not hacking away at my computer, I like to disconnect and take spontaneous walks, meditate and do some HiiT cardio. 
 
