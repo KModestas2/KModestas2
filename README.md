@@ -4,7 +4,7 @@
 
 🔭 Currently I really enjoy using the ["T3 stack"](https://create.t3.gg/) pioneerd by Theo Browne. The DX is on another level.
 
-🍃 When I'm not hacking away at my computer, I like to disconnect and take spontaneous walks, meditate and do some HiiT cardio.
+🍃 When I'm not hacking away at my computer, I like to disconnect and take spontaneous walks, meditate and do some HiiT cardio. 
 
 <!--
 **KModestas2/KModestas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
