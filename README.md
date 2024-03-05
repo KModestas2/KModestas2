@@ -1,6 +1,6 @@
 ### Hi, I'm Modestas a Fullstack Web Developer 👋
 
-I have built and contributed a wide range of applications ranging from discord bots, interactive livestreams, mobile apps and a variety of production-grade web apps.
+I have built and contributed a wide range of applications ranging from discord bots, interactive livestreams, mobile apps and a variety of production-grade web apps. Wether it be creating beautiful and responsive UI's or robust backends and API's, I find joy in all aspects of the development process.
 
 <!--
 **KModestas2/KModestas2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
