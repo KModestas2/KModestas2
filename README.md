@@ -1,4 +1,4 @@
-👋 ### Hi, I'm Modestas, a fullstack developer
+###👋 Hi, I'm Modestas, a fullstack developer
 
 - 🖥️ I've been coding primarily using React and Node.js for over 6 years
 - 🛠️ I've built apps ranging from indexing systems, discord bots, interactive livestreams, mobile apps, web3 and SaaS projects.
