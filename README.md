@@ -3,7 +3,7 @@
 - 🖥️ I've been coding primarily using React and Node.js for over 6 years
 - 🛠️ I've built apps ranging from indexing systems, discord bots, interactive livestreams, mobile apps, web3 and SaaS projects.
 - 🧰 Atm, I really enjoy using the [T3 stack](https://create.t3.gg/), The DX is on another level!
-- 🍃 When I'm not hacking away at my computer, I like to disconnect, meditate, go on spontaneous walks, do HIIT workouts
+- 🍃 When I'm not hacking away at the computer, I like to disconnect, meditate, go on spontaneous walks, do HIIT workouts
 
  
 
